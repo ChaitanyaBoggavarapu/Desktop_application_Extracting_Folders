@@ -6,7 +6,7 @@ A Python based desktop application using Pyqt5 package to extract desired file t
 
 ```
 pip install -r requirements.txt
-pyinstaller --onefile Montyhall.py
+pyinstaller --onefile Desktopapp.py
 
 ```
 
